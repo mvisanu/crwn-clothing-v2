@@ -21,13 +21,13 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyANN00eVs3DTonyNQy-oBP0uCE0yx5yEa8",
-  authDomain: "crwn-db-58bd5.firebaseapp.com",
-  projectId: "crwn-db-58bd5",
-  storageBucket: "crwn-db-58bd5.appspot.com",
-  messagingSenderId: "632880070781",
-  appId: "1:632880070781:web:00295ef61cd1525cdb7114",
-  measurementId: "G-2TFE4FB276"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "1:",
+  measurementId: ""
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
